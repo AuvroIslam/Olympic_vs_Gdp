@@ -61,9 +61,9 @@ pip install -r requirements.txt
 <br>
 Alternatively,check here to get scrapped files:<br>
 olympic_medal_dataset:<br>
-https://github.com/AuvroIslam/Olympic-vs-Gdp/blob/main/capstoneProject1/Olympic_medals.csv
+https://github.com/AuvroIslam/Olympic_vs_Gdp/blob/main/data/Olympic_medals.csv
 <br>gdp_per_capita_dataset:<br>
-https://github.com/AuvroIslam/Olympic-vs-Gdp/blob/main/capstoneProject1/gdp_per_capita.csv
+https://github.com/AuvroIslam/Olympic_vs_Gdp/blob/main/data/gdp_per_capita.csv
 
 # Analytics
 <h3>1/Tableau public view:</h3>
