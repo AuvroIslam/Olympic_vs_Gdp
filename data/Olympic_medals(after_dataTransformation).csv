@@ -1,0 +1,589 @@
+Venue,Country,Gold,Silver,Bronze,Total
+paris-2024,Albania,0,0,2,2
+paris-2024,Algeria,2,0,1,3
+paris-2024,Argentina,1,1,1,3
+paris-2024,Armenia,0,3,1,4
+paris-2024,Australia,18,19,16,53
+paris-2024,Austria,2,0,3,5
+paris-2024,Azerbaijan,2,2,3,7
+paris-2024,Bahrain,2,1,1,4
+paris-2024,Belgium,3,1,6,10
+paris-2024,Botswana,1,1,0,2
+paris-2024,Brazil,3,7,10,20
+paris-2024,Bulgaria,3,1,3,7
+paris-2024,Cape Verde,0,0,1,1
+paris-2024,Canada,9,7,11,27
+paris-2024,Chile,1,1,0,2
+paris-2024,Taiwan,2,0,5,7
+paris-2024,Colombia,0,3,1,4
+paris-2024,Croatia,2,2,3,7
+paris-2024,Cyprus,0,1,0,1
+paris-2024,Czech Republic,3,0,2,5
+paris-2024,Ivory Coast,0,0,1,1
+paris-2024,Democratic People's Republic of Korea,0,2,4,6
+paris-2024,Denmark,2,2,5,9
+paris-2024,Dominica,1,0,0,1
+paris-2024,Dominican Republic,1,0,2,3
+paris-2024,Ecuador,1,2,2,5
+paris-2024,Egypt,1,1,1,3
+paris-2024,Ethiopia,1,3,0,4
+paris-2024,Fiji,0,1,0,1
+paris-2024,France,16,26,22,64
+paris-2024,Georgia,3,3,1,7
+paris-2024,Germany,12,13,8,33
+paris-2024,United Kingdom,14,22,29,65
+paris-2024,Greece,1,1,6,8
+paris-2024,Grenada,0,0,2,2
+paris-2024,Guatemala,1,0,1,2
+paris-2024,Hong Kong,2,0,2,4
+paris-2024,Hungary,6,7,6,19
+paris-2024,India,0,1,5,6
+paris-2024,Indonesia,2,0,1,3
+paris-2024,Ireland,4,0,3,7
+paris-2024,Iran,3,6,3,12
+paris-2024,Israel,1,5,1,7
+paris-2024,Italy,12,13,15,40
+paris-2024,Jamaica,1,3,2,6
+paris-2024,Japan,20,12,13,45
+paris-2024,Jordan,0,1,0,1
+paris-2024,Kazakhstan,1,3,3,7
+paris-2024,Kenya,4,2,5,11
+paris-2024,Kosovo,0,1,1,2
+paris-2024,Kyrgyzstan,0,2,4,6
+paris-2024,Lithuania,0,2,2,4
+paris-2024,Malaysia,0,0,2,2
+paris-2024,Mexico,0,3,2,5
+paris-2024,Mongolia,0,1,0,1
+paris-2024,Morocco,1,0,1,2
+paris-2024,Netherlands,15,7,12,34
+paris-2024,New Zealand,10,7,3,20
+paris-2024,Norway,4,1,3,8
+paris-2024,Pakistan,1,0,0,1
+paris-2024,Panama,0,1,0,1
+paris-2024,China,40,27,24,91
+paris-2024,Peru,0,0,1,1
+paris-2024,Philippines,2,0,2,4
+paris-2024,Poland,1,4,5,10
+paris-2024,Portugal,1,2,1,4
+paris-2024,Puerto Rico,0,0,2,2
+paris-2024,Qatar,0,0,1,1
+paris-2024,South Korea,13,9,10,32
+paris-2024,Moldova,0,1,3,4
+paris-2024,Romania,3,4,2,9
+paris-2024,Saint Lucia,1,1,0,2
+paris-2024,Serbia,3,1,1,5
+paris-2024,Singapore,0,0,1,1
+paris-2024,Slovakia,0,0,1,1
+paris-2024,Slovenia,2,1,0,3
+paris-2024,South Africa,1,3,2,6
+paris-2024,Spain,5,4,9,18
+paris-2024,Sweden,4,4,3,11
+paris-2024,Switzerland,1,2,5,8
+paris-2024,Tajikistan,0,0,3,3
+paris-2024,Thailand,1,3,2,6
+paris-2024,Tunisia,1,1,1,3
+paris-2024,Turkey,0,3,5,8
+paris-2024,Uganda,1,1,0,2
+paris-2024,Ukraine,3,5,4,12
+paris-2024,United States,40,44,42,126
+paris-2024,Uzbekistan,8,2,3,13
+paris-2024,Zambia,0,0,1,1
+rio-2016,Algeria,0,2,0,2
+rio-2016,Argentina,3,1,0,4
+rio-2016,Armenia,1,3,0,4
+rio-2016,Australia,8,11,10,29
+rio-2016,Austria,0,0,1,1
+rio-2016,Azerbaijan,1,7,10,18
+rio-2016,Bahamas,1,0,1,2
+rio-2016,Bahrain,1,1,0,2
+rio-2016,Belarus,1,4,4,9
+rio-2016,Belgium,2,2,2,6
+rio-2016,Brazil,7,6,6,19
+rio-2016,Bulgaria,0,1,2,3
+rio-2016,Burundi,0,1,0,1
+rio-2016,Canada,4,3,15,22
+rio-2016,Taiwan,1,0,2,3
+rio-2016,Colombia,3,2,3,8
+rio-2016,Croatia,5,3,2,10
+rio-2016,Czech Republic,1,2,7,10
+rio-2016,Ivory Coast,1,0,1,2
+rio-2016,Democratic People's Republic of Korea,2,3,2,7
+rio-2016,Denmark,2,6,7,15
+rio-2016,Dominican Republic,0,0,1,1
+rio-2016,Egypt,0,0,3,3
+rio-2016,Estonia,0,0,1,1
+rio-2016,Ethiopia,1,2,5,8
+rio-2016,Fiji,1,0,0,1
+rio-2016,Finland,0,0,1,1
+rio-2016,France,10,18,14,42
+rio-2016,Georgia,2,1,4,7
+rio-2016,Germany,17,10,15,42
+rio-2016,United Kingdom,27,23,17,67
+rio-2016,Greece,3,1,2,6
+rio-2016,Grenada,0,1,0,1
+rio-2016,Hungary,8,3,4,15
+rio-2016,Independent Olympic Athletes,1,0,1,2
+rio-2016,India,0,1,1,2
+rio-2016,Indonesia,1,2,0,3
+rio-2016,Ireland,0,2,0,2
+rio-2016,Iran,3,1,4,8
+rio-2016,Israel,0,0,2,2
+rio-2016,Italy,8,12,8,28
+rio-2016,Jamaica,6,3,2,11
+rio-2016,Japan,12,8,21,41
+rio-2016,Jordan,1,0,0,1
+rio-2016,Kazakhstan,2,5,10,17
+rio-2016,Kenya,6,6,1,13
+rio-2016,Kosovo,1,0,0,1
+rio-2016,Lithuania,0,1,3,4
+rio-2016,Malaysia,0,4,1,5
+rio-2016,Mexico,0,3,2,5
+rio-2016,Mongolia,0,1,1,2
+rio-2016,Morocco,0,0,1,1
+rio-2016,Netherlands,8,7,4,19
+rio-2016,New Zealand,4,9,5,18
+rio-2016,Niger,0,1,0,1
+rio-2016,Nigeria,0,0,1,1
+rio-2016,Norway,0,0,4,4
+rio-2016,China,26,18,26,70
+rio-2016,Philippines,0,1,0,1
+rio-2016,Poland,2,3,6,11
+rio-2016,Portugal,0,0,1,1
+rio-2016,Puerto Rico,1,0,0,1
+rio-2016,Qatar,0,1,0,1
+rio-2016,South Korea,9,3,9,21
+rio-2016,Romania,1,1,2,4
+rio-2016,Russia,19,17,20,56
+rio-2016,Serbia,2,4,2,8
+rio-2016,Singapore,1,0,0,1
+rio-2016,Slovakia,2,2,0,4
+rio-2016,Slovenia,1,2,1,4
+rio-2016,South Africa,2,6,2,10
+rio-2016,Spain,7,4,6,17
+rio-2016,Sweden,2,6,3,11
+rio-2016,Switzerland,3,2,2,7
+rio-2016,Tajikistan,1,0,0,1
+rio-2016,Thailand,2,2,2,6
+rio-2016,Trinidad and Tobago,0,0,1,1
+rio-2016,Tunisia,0,0,3,3
+rio-2016,Turkey,1,3,4,8
+rio-2016,Ukraine,2,5,4,11
+rio-2016,United Arab Emirates,0,0,1,1
+rio-2016,United States,46,37,38,121
+rio-2016,Uzbekistan,4,2,7,13
+rio-2016,Venezuela,0,2,1,3
+rio-2016,Vietnam,1,1,0,2
+tokyo-2020,Argentina,0,1,2,3
+tokyo-2020,Armenia,0,2,2,4
+tokyo-2020,Australia,17,7,22,46
+tokyo-2020,Austria,1,1,5,7
+tokyo-2020,Azerbaijan,0,3,4,7
+tokyo-2020,Bahamas,2,0,0,2
+tokyo-2020,Bahrain,0,1,0,1
+tokyo-2020,Belarus,1,3,3,7
+tokyo-2020,Belgium,3,1,3,7
+tokyo-2020,Botswana,0,0,1,1
+tokyo-2020,Brazil,7,6,8,21
+tokyo-2020,Bulgaria,3,1,2,6
+tokyo-2020,Burkina Faso,0,0,1,1
+tokyo-2020,Canada,7,7,10,24
+tokyo-2020,Taiwan,2,4,6,12
+tokyo-2020,Colombia,0,4,1,5
+tokyo-2020,Croatia,3,3,2,8
+tokyo-2020,Czech Republic,4,4,3,11
+tokyo-2020,Ivory Coast,0,0,1,1
+tokyo-2020,Denmark,3,4,4,11
+tokyo-2020,Dominican Republic,0,3,2,5
+tokyo-2020,Ecuador,2,1,0,3
+tokyo-2020,Egypt,1,1,4,6
+tokyo-2020,Estonia,1,0,1,2
+tokyo-2020,Ethiopia,1,1,2,4
+tokyo-2020,Fiji,1,0,1,2
+tokyo-2020,Finland,0,0,2,2
+tokyo-2020,France,10,12,11,33
+tokyo-2020,Georgia,2,5,1,8
+tokyo-2020,Germany,10,11,16,37
+tokyo-2020,Ghana,0,0,1,1
+tokyo-2020,United Kingdom,22,20,22,64
+tokyo-2020,Greece,2,1,1,4
+tokyo-2020,Grenada,0,0,1,1
+tokyo-2020,Hong Kong,1,2,3,6
+tokyo-2020,Hungary,6,7,7,20
+tokyo-2020,India,1,2,4,7
+tokyo-2020,Indonesia,1,1,3,5
+tokyo-2020,Ireland,2,0,2,4
+tokyo-2020,Iran,3,2,2,7
+tokyo-2020,Israel,2,0,2,4
+tokyo-2020,Italy,10,10,20,40
+tokyo-2020,Jamaica,4,1,4,9
+tokyo-2020,Japan,27,14,17,58
+tokyo-2020,Jordan,0,1,1,2
+tokyo-2020,Kazakhstan,0,0,8,8
+tokyo-2020,Kenya,4,4,2,10
+tokyo-2020,Kosovo,2,0,0,2
+tokyo-2020,Kuwait,0,0,1,1
+tokyo-2020,Kyrgyzstan,0,2,1,3
+tokyo-2020,Latvia,1,0,1,2
+tokyo-2020,Lithuania,0,1,0,1
+tokyo-2020,Malaysia,0,1,1,2
+tokyo-2020,Mexico,0,0,4,4
+tokyo-2020,Mongolia,0,1,3,4
+tokyo-2020,Morocco,1,0,0,1
+tokyo-2020,Namibia,0,1,0,1
+tokyo-2020,Netherlands,10,12,14,36
+tokyo-2020,New Zealand,7,6,7,20
+tokyo-2020,Nigeria,0,1,1,2
+tokyo-2020,North Macedonia,0,1,0,1
+tokyo-2020,Norway,4,2,2,8
+tokyo-2020,China,38,32,19,89
+tokyo-2020,Philippines,1,2,1,4
+tokyo-2020,Poland,4,5,5,14
+tokyo-2020,Portugal,1,1,2,4
+tokyo-2020,Puerto Rico,1,0,0,1
+tokyo-2020,Qatar,2,0,1,3
+tokyo-2020,Russia,20,28,23,71
+tokyo-2020,South Korea,6,4,10,20
+tokyo-2020,Moldova,0,0,1,1
+tokyo-2020,Romania,1,3,0,4
+tokyo-2020,San Marino,0,1,2,3
+tokyo-2020,Saudi Arabia,0,1,0,1
+tokyo-2020,Serbia,3,1,5,9
+tokyo-2020,Slovakia,1,2,1,4
+tokyo-2020,Slovenia,3,1,1,5
+tokyo-2020,South Africa,1,2,0,3
+tokyo-2020,Spain,3,8,6,17
+tokyo-2020,Sweden,3,6,0,9
+tokyo-2020,Switzerland,3,4,6,13
+tokyo-2020,Syria,0,0,1,1
+tokyo-2020,Thailand,1,0,1,2
+tokyo-2020,Tunisia,1,1,0,2
+tokyo-2020,Turkmenistan,0,1,0,1
+tokyo-2020,Turkey,2,2,9,13
+tokyo-2020,Uganda,2,1,1,4
+tokyo-2020,Ukraine,1,6,12,19
+tokyo-2020,United States,39,41,33,113
+tokyo-2020,Uzbekistan,3,0,2,5
+tokyo-2020,Venezuela,1,3,0,4
+london-2012,Afghanistan,0,0,1,1
+london-2012,Algeria,1,0,0,1
+london-2012,Argentina,1,1,2,4
+london-2012,Armenia,0,1,1,2
+london-2012,Australia,8,15,12,35
+london-2012,Azerbaijan,2,2,5,9
+london-2012,Bahamas,1,0,0,1
+london-2012,Bahrain,1,0,0,1
+london-2012,Belarus,2,5,3,10
+london-2012,Belgium,0,1,2,3
+london-2012,Botswana,0,1,0,1
+london-2012,Brazil,3,5,9,17
+london-2012,Bulgaria,0,2,1,3
+london-2012,Cameroon,0,0,1,1
+london-2012,Canada,2,6,10,18
+london-2012,Taiwan,1,0,1,2
+london-2012,Colombia,1,3,5,9
+london-2012,Croatia,3,1,2,6
+london-2012,Cyprus,0,1,0,1
+london-2012,Czech Republic,4,4,3,11
+london-2012,Democratic People's Republic of Korea,4,0,2,6
+london-2012,Denmark,2,4,3,9
+london-2012,Dominican Republic,1,1,0,2
+london-2012,Egypt,0,3,1,4
+london-2012,Estonia,0,1,1,2
+london-2012,Ethiopia,3,2,3,8
+london-2012,Finland,0,2,1,3
+london-2012,France,11,11,13,35
+london-2012,Gabon,0,1,0,1
+london-2012,Georgia,1,2,3,6
+london-2012,Germany,11,20,13,44
+london-2012,United Kingdom,29,18,18,65
+london-2012,Greece,0,0,2,2
+london-2012,Grenada,1,0,0,1
+london-2012,Guatemala,0,1,0,1
+london-2012,Hong Kong,0,0,1,1
+london-2012,Hungary,8,4,6,18
+london-2012,India,0,2,4,6
+london-2012,Indonesia,0,2,1,3
+london-2012,Ireland,1,1,4,6
+london-2012,Iran,7,5,1,13
+london-2012,Italy,8,9,11,28
+london-2012,Jamaica,4,5,4,13
+london-2012,Japan,7,14,17,38
+london-2012,Kazakhstan,3,1,7,11
+london-2012,Kenya,2,4,7,13
+london-2012,Kuwait,0,0,1,1
+london-2012,Latvia,1,0,1,2
+london-2012,Lithuania,2,0,3,5
+london-2012,Malaysia,0,1,1,2
+london-2012,Mexico,1,3,4,8
+london-2012,Mongolia,0,2,3,5
+london-2012,Montenegro,0,1,0,1
+london-2012,Morocco,0,0,1,1
+london-2012,Netherlands,6,6,8,20
+london-2012,New Zealand,6,2,5,13
+london-2012,Norway,2,1,1,4
+london-2012,China,39,31,22,92
+london-2012,Poland,3,2,6,11
+london-2012,Portugal,0,1,0,1
+london-2012,Puerto Rico,0,1,1,2
+london-2012,Qatar,0,1,1,2
+london-2012,South Korea,13,9,9,31
+london-2012,Romania,2,4,1,7
+london-2012,Russia,18,21,26,65
+london-2012,Saudi Arabia,0,0,1,1
+london-2012,Serbia,1,1,2,4
+london-2012,Singapore,0,0,2,2
+london-2012,Slovakia,0,1,3,4
+london-2012,Slovenia,1,1,2,4
+london-2012,South Africa,4,1,1,6
+london-2012,Spain,4,10,6,20
+london-2012,Sweden,1,4,3,8
+london-2012,Switzerland,2,2,0,4
+london-2012,Tajikistan,0,0,1,1
+london-2012,Thailand,0,2,2,4
+london-2012,Trinidad and Tobago,1,1,2,4
+london-2012,Tunisia,2,0,1,3
+london-2012,Turkey,1,1,1,3
+london-2012,Uganda,1,0,0,1
+london-2012,Ukraine,5,4,10,19
+london-2012,United States,48,26,30,104
+london-2012,Uzbekistan,0,0,3,3
+london-2012,Venezuela,1,0,0,1
+london-2012,Vietnam,0,0,1,1
+beijing-2008,Afghanistan,0,0,1,1
+beijing-2008,Algeria,0,1,1,2
+beijing-2008,Argentina,2,0,4,6
+beijing-2008,Armenia,0,1,4,5
+beijing-2008,Australia,14,15,17,46
+beijing-2008,Austria,0,1,2,3
+beijing-2008,Azerbaijan,1,1,4,6
+beijing-2008,Bahamas,0,1,1,2
+beijing-2008,Belarus,3,4,7,14
+beijing-2008,Belgium,2,0,0,2
+beijing-2008,Brazil,3,4,10,17
+beijing-2008,Bulgaria,1,1,3,5
+beijing-2008,Cameroon,1,0,0,1
+beijing-2008,Canada,3,9,8,20
+beijing-2008,Chile,0,1,0,1
+beijing-2008,Taiwan,1,1,2,4
+beijing-2008,Colombia,0,2,1,3
+beijing-2008,Croatia,0,2,3,5
+beijing-2008,Czech Republic,3,3,1,7
+beijing-2008,Democratic People's Republic of Korea,2,2,2,6
+beijing-2008,Denmark,2,2,3,7
+beijing-2008,Dominican Republic,1,1,0,2
+beijing-2008,Ecuador,0,1,0,1
+beijing-2008,Egypt,0,0,2,2
+beijing-2008,Estonia,1,1,0,2
+beijing-2008,Ethiopia,4,2,1,7
+beijing-2008,Finland,1,1,2,4
+beijing-2008,France,7,16,20,43
+beijing-2008,Georgia,3,2,2,7
+beijing-2008,Germany,16,11,14,41
+beijing-2008,United Kingdom,19,13,19,51
+beijing-2008,Greece,0,2,1,3
+beijing-2008,Hungary,3,5,2,10
+beijing-2008,Iceland,0,1,0,1
+beijing-2008,India,1,0,2,3
+beijing-2008,Indonesia,1,1,4,6
+beijing-2008,Ireland,0,1,2,3
+beijing-2008,Iran,1,0,1,2
+beijing-2008,Israel,0,0,1,1
+beijing-2008,Italy,8,9,10,27
+beijing-2008,Jamaica,5,4,2,11
+beijing-2008,Japan,9,8,8,25
+beijing-2008,Kazakhstan,2,3,4,9
+beijing-2008,Kenya,6,4,6,16
+beijing-2008,Kyrgyzstan,0,1,2,3
+beijing-2008,Latvia,1,1,1,3
+beijing-2008,Lithuania,0,3,2,5
+beijing-2008,Malaysia,0,1,0,1
+beijing-2008,Mauritius,0,0,1,1
+beijing-2008,Mexico,2,0,2,4
+beijing-2008,Mongolia,2,2,0,4
+beijing-2008,Morocco,0,1,1,2
+beijing-2008,Netherlands,7,5,4,16
+beijing-2008,New Zealand,3,2,4,9
+beijing-2008,Nigeria,0,3,2,5
+beijing-2008,Norway,3,5,1,9
+beijing-2008,Panama,1,0,0,1
+beijing-2008,China,48,22,30,100
+beijing-2008,Poland,4,5,2,11
+beijing-2008,Portugal,1,1,0,2
+beijing-2008,South Korea,13,11,8,32
+beijing-2008,Moldova,0,0,1,1
+beijing-2008,Romania,4,1,4,9
+beijing-2008,Russia,24,13,23,60
+beijing-2008,Samoa,0,1,0,1
+beijing-2008,Serbia,0,1,2,3
+beijing-2008,Singapore,0,1,0,1
+beijing-2008,Slovakia,3,3,0,6
+beijing-2008,Slovenia,1,2,2,5
+beijing-2008,South Africa,0,1,0,1
+beijing-2008,Spain,5,11,3,19
+beijing-2008,Sudan,0,1,0,1
+beijing-2008,Sweden,0,4,1,5
+beijing-2008,Switzerland,2,1,4,7
+beijing-2008,Tajikistan,0,1,1,2
+beijing-2008,Thailand,2,2,2,6
+beijing-2008,Togo,0,0,1,1
+beijing-2008,Trinidad and Tobago,1,1,0,2
+beijing-2008,Tunisia,1,0,0,1
+beijing-2008,Turkey,1,1,3,5
+beijing-2008,Ukraine,7,4,11,22
+beijing-2008,United States,36,39,37,112
+beijing-2008,Uzbekistan,0,1,3,4
+beijing-2008,Venezuela,0,0,1,1
+beijing-2008,Vietnam,0,1,0,1
+beijing-2008,Zimbabwe,1,3,0,4
+athens-2004,Argentina,2,0,4,6
+athens-2004,Australia,17,16,17,50
+athens-2004,Austria,2,4,1,7
+athens-2004,Azerbaijan,1,0,4,5
+athens-2004,Bahamas,1,0,1,2
+athens-2004,Belarus,2,5,6,13
+athens-2004,Belgium,1,0,2,3
+athens-2004,Brazil,5,2,3,10
+athens-2004,Bulgaria,2,1,9,12
+athens-2004,Cameroon,1,0,0,1
+athens-2004,Canada,3,6,3,12
+athens-2004,Chile,2,0,1,3
+athens-2004,Taiwan,2,2,1,5
+athens-2004,Colombia,0,0,2,2
+athens-2004,Croatia,1,2,2,5
+athens-2004,Czech Republic,1,3,5,9
+athens-2004,Democratic People's Republic of Korea,0,4,1,5
+athens-2004,Denmark,2,1,5,8
+athens-2004,Dominican Republic,1,0,0,1
+athens-2004,Egypt,1,1,3,5
+athens-2004,Eritrea,0,0,1,1
+athens-2004,Estonia,0,1,2,3
+athens-2004,Ethiopia,2,3,2,7
+athens-2004,Finland,0,2,0,2
+athens-2004,France,11,9,13,33
+athens-2004,Georgia,2,2,0,4
+athens-2004,Germany,13,16,20,49
+athens-2004,United Kingdom,9,9,12,30
+athens-2004,Greece,6,6,4,16
+athens-2004,Hong Kong,0,1,0,1
+athens-2004,Hungary,8,6,3,17
+athens-2004,India,0,1,0,1
+athens-2004,Indonesia,1,1,2,4
+athens-2004,Iran,2,2,2,6
+athens-2004,Israel,1,0,1,2
+athens-2004,Italy,10,11,11,32
+athens-2004,Jamaica,2,1,2,5
+athens-2004,Japan,16,9,12,37
+athens-2004,Kazakhstan,1,4,3,8
+athens-2004,Kenya,1,4,2,7
+athens-2004,Latvia,0,4,0,4
+athens-2004,Lithuania,1,2,0,3
+athens-2004,Mexico,0,3,1,4
+athens-2004,Mongolia,0,0,1,1
+athens-2004,Morocco,2,1,0,3
+athens-2004,Netherlands,4,9,9,22
+athens-2004,New Zealand,3,2,0,5
+athens-2004,Nigeria,0,0,2,2
+athens-2004,Norway,5,0,1,6
+athens-2004,Paraguay,0,1,0,1
+athens-2004,China,32,17,14,63
+athens-2004,Poland,3,2,5,10
+athens-2004,Portugal,0,2,1,3
+athens-2004,South Korea,9,12,9,30
+athens-2004,Romania,8,5,6,19
+athens-2004,Russia,28,26,36,90
+athens-2004,Serbia,0,2,0,2
+athens-2004,Slovakia,2,2,2,6
+athens-2004,Slovenia,0,1,3,4
+athens-2004,South Africa,1,3,2,6
+athens-2004,Spain,3,11,6,20
+athens-2004,Sweden,4,2,1,7
+athens-2004,Switzerland,1,1,3,5
+athens-2004,Syria,0,0,1,1
+athens-2004,Thailand,3,1,4,8
+athens-2004,Trinidad and Tobago,0,0,1,1
+athens-2004,Turkey,3,3,4,10
+athens-2004,Ukraine,8,5,9,22
+athens-2004,United Arab Emirates,1,0,0,1
+athens-2004,United States,36,39,26,101
+athens-2004,Uzbekistan,2,1,2,5
+athens-2004,Venezuela,0,0,2,2
+athens-2004,Zimbabwe,1,1,1,3
+sydney-2000,Algeria,1,1,3,5
+sydney-2000,Argentina,0,2,2,4
+sydney-2000,Armenia,0,0,1,1
+sydney-2000,Australia,16,25,17,58
+sydney-2000,Austria,2,1,0,3
+sydney-2000,Azerbaijan,2,0,1,3
+sydney-2000,Bahamas,2,0,1,3
+sydney-2000,Barbados,0,0,1,1
+sydney-2000,Belarus,3,3,11,17
+sydney-2000,Belgium,0,2,3,5
+sydney-2000,Brazil,0,6,6,12
+sydney-2000,Bulgaria,5,6,2,13
+sydney-2000,Cameroon,1,0,0,1
+sydney-2000,Canada,3,3,8,14
+sydney-2000,Chile,0,0,1,1
+sydney-2000,Taiwan,0,1,4,5
+sydney-2000,Colombia,1,0,0,1
+sydney-2000,Costa Rica,0,0,2,2
+sydney-2000,Croatia,1,0,1,2
+sydney-2000,Czech Republic,2,3,3,8
+sydney-2000,Democratic People's Republic of Korea,0,1,3,4
+sydney-2000,Denmark,2,3,1,6
+sydney-2000,Estonia,1,0,2,3
+sydney-2000,Ethiopia,4,1,3,8
+sydney-2000,Finland,2,1,1,4
+sydney-2000,France,13,14,11,38
+sydney-2000,Georgia,0,0,6,6
+sydney-2000,Germany,13,17,26,56
+sydney-2000,United Kingdom,11,10,7,28
+sydney-2000,Greece,4,6,3,13
+sydney-2000,Hungary,8,6,3,17
+sydney-2000,Iceland,0,0,1,1
+sydney-2000,India,0,0,1,1
+sydney-2000,Indonesia,1,3,2,6
+sydney-2000,Ireland,0,1,0,1
+sydney-2000,Iran,3,0,1,4
+sydney-2000,Israel,0,0,1,1
+sydney-2000,Italy,13,8,13,34
+sydney-2000,Jamaica,0,6,3,9
+sydney-2000,Japan,5,8,5,18
+sydney-2000,Kazakhstan,3,4,0,7
+sydney-2000,Kenya,2,3,2,7
+sydney-2000,Kuwait,0,0,1,1
+sydney-2000,Kyrgyzstan,0,0,1,1
+sydney-2000,Latvia,1,1,1,3
+sydney-2000,Lithuania,2,0,3,5
+sydney-2000,Mexico,1,2,3,6
+sydney-2000,Morocco,0,1,4,5
+sydney-2000,Mozambique,1,0,0,1
+sydney-2000,Netherlands,12,9,4,25
+sydney-2000,New Zealand,1,0,3,4
+sydney-2000,Nigeria,1,2,0,3
+sydney-2000,North Macedonia,0,0,1,1
+sydney-2000,Norway,4,3,3,10
+sydney-2000,China,28,16,14,58
+sydney-2000,Poland,6,5,3,14
+sydney-2000,Portugal,0,0,2,2
+sydney-2000,Qatar,0,0,1,1
+sydney-2000,South Korea,8,10,10,28
+sydney-2000,Moldova,0,1,1,2
+sydney-2000,Romania,11,6,9,26
+sydney-2000,Russia,32,28,29,89
+sydney-2000,Saudi Arabia,0,1,1,2
+sydney-2000,Serbia,1,1,1,3
+sydney-2000,Slovakia,1,3,1,5
+sydney-2000,Slovenia,2,0,0,2
+sydney-2000,South Africa,0,2,3,5
+sydney-2000,Spain,3,3,5,11
+sydney-2000,Sri Lanka,0,1,0,1
+sydney-2000,Sweden,4,5,3,12
+sydney-2000,Switzerland,1,6,2,9
+sydney-2000,Thailand,1,0,2,3
+sydney-2000,Trinidad and Tobago,0,1,1,2
+sydney-2000,Turkey,3,0,2,5
+sydney-2000,Ukraine,3,10,10,23
+sydney-2000,United States,37,24,32,93
+sydney-2000,Uruguay,0,1,0,1
+sydney-2000,Uzbekistan,1,1,2,4
+sydney-2000,Vietnam,0,1,0,1
