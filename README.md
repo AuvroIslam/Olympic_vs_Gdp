@@ -40,7 +40,7 @@ You can explore our visualizations here:
 ## Build from Sources<br>
 1/Clone the repo<br>
 ```bash
-https://github.com/AuvroIslam/Olympic-vs-Gdp.git
+https://github.com/AuvroIslam/Olympic_vs_Gdp.git
 ```
 2/Create and activate a virtual environment in Windows, follow these steps
 ```bash
