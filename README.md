@@ -25,6 +25,8 @@ You can explore our visualizations here:
 - **Olympic Medal Data:** [Olympics Official Website](https://www.olympics.com/en/olympic-games/paris-2024/medals)  
 - **GDP per Capita Data:** [Wikipedia - Past & Projected GDP](https://en.wikipedia.org/wiki/List_of_countries_by_past_and_projected_GDP_(nominal)_per_capita)  
 
+## **Data Size**
+-After Cleaning(datatransformation),There are 5882 data.
 ## **Key Findings from the Dashboards**  
 
 1. **The USA consistently performs well even without hosting the Olympics.**  
