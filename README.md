@@ -71,3 +71,10 @@ https://github.com/AuvroIslam/Olympic_vs_Gdp/blob/main/data/gdp_per_capita.csv
 <h3>1/Tableau public view:</h3>
 -https://public.tableau.com/app/profile/oitijya.islam.auvro/viz/Summer_OlympicMedals/Dashboard1<br>
 -https://public.tableau.com/app/profile/oitijya.islam.auvro/viz/GDPvsPerformance/Dashboard2<br>
+
+## Contact for More Details
+
+- 📧 Email: [oitijya2002@gmail.com](mailto:oitijya2002@gmail.com)  
+- 🔗 LinkedIn: [Oitijya Islam Auvro](https://linkedin.com/in/oitijya-islam-auvro-a252a5325)  
+- 💻 GitHub: [AuvroIslam](https://github.com/AuvroIslam)  
+
